@@ -1,4 +1,5 @@
 # ClockArduino
+A seven-segment clock with 6 indicators on an address LED strip with a web page for changing color and brightness, as well as time polls via NTP.
 
 #define DHT_PIN 2              //pin connection of the temperature sensor
 #define NUM_LEDS 88          // number of LEDs
