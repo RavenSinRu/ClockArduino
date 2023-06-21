@@ -15,8 +15,8 @@
 #define DATA_PIN 6            // пин подключения ленты
 #define TIMEZONE 7            // выбор часового пояса
 
-const char* ssid = "ASUS";      // имя wifi
-const char* password = "rizik227";  // пароль wifi
+const char* ssid = "*****";      // имя wifi
+const char* password = "******";  // пароль wifi
 const char* id = "ClockRGB";
 const char* pass = "Space220";
 int keyIndex = 0;  
